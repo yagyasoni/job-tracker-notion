@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Job Posting to Notion",
+  "version": "1.0",
+  "description": "Scrape job posting details from career sites and save them to Notion.",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://api.notion.com/*",
+    "https://*.greenhouse.io/*",
+    "https://*.lever.co/*",
+    "https://*.bamboohr.com/*",
+    "https://*.workable.com/*",
+    "https://*.smartrecruiters.com/*",
+    "https://*.jazzhr.com/*",
+    "https://*/*"
+  ],
+  
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+   
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';"
+  }
+  
+}
