@@ -6,7 +6,11 @@ A Chrome extension that automatically scrapes job posting details from career we
 
 ## 📽️ Demo Video
 
-[![Watch the video]](https://drive.google.com/file/d/1WuaLOgxC52sO5s0gPxp3k9gbwsPNQPQv/view?usp=sharing)
+<video width="100%" controls>
+  <source src="https://github.com/user-attachments/assets/cd806520-5662-49b9-bb60-2a327f0272a3" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## Features
