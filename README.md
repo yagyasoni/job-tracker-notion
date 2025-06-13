@@ -4,10 +4,9 @@
 
 A Chrome extension that automatically scrapes job posting details from career websites and saves them directly to your Notion database. Streamline your job application tracking with one-click data extraction and organized storage.
 
-<video width="100%" controls>
-  <source src="https://drive.google.com/file/d/1WuaLOgxC52sO5s0gPxp3k9gbwsPNQPQv/view?usp=sharing" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 📽️ Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID_HERE](https://drive.google.com/file/d/1WuaLOgxC52sO5s0gPxp3k9gbwsPNQPQv/view?usp=sharing))
 
 
 ## Features
