@@ -4,15 +4,6 @@
 
 A Chrome extension that automatically scrapes job posting details from career websites and saves them directly to your Notion database. Streamline your job application tracking with one-click data extraction and organized storage.
 
-## 📽️ Demo Video
-
-<video width="100%" controls>
-  <source src="https://github.com/user-attachments/assets/cd806520-5662-49b9-bb60-2a327f0272a3" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-
 ## Features
 
 - **Auto-scraping**: Extract job title, company, location, and description from career sites
@@ -20,6 +11,12 @@ A Chrome extension that automatically scrapes job posting details from career we
 - **Status Tracking**: Mark applications as Applied, Wishlist, Interviewing, Rejected, etc.
 - **Multi-platform Support**: Works with Greenhouse, Lever, BambooHR, Workable, and more
 - **Editable Fields**: Review and modify scraped data before saving
+
+
+## Demo Video
+
+[![Watch the demo]](https://drive.google.com/file/d/1WuaLOgxC52sO5s0gPxp3k9gbwsPNQPQv/view?usp=sharing)**
+  
 
 ## Prerequisites
 
